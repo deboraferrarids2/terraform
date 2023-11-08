@@ -25,5 +25,5 @@ $ terraform apply
 6 - Para excluir todos os serviços criados na AWS
 
 ```bash
-$ terraform terraform destroy
+$ terraform destroy
 ```
